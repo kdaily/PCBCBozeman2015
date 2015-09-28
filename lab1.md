@@ -33,7 +33,9 @@ https://kdaily.github.io/dataorg/pages/consistency.html
 
 ## Dates. | ([xkcd.com](https://xkcd.com/1179/))
 
-![XKCD Dates](https://imgs.xkcd.com/comics/iso_8601.png)
+<center>
+<img src="https://imgs.xkcd.com/comics/iso_8601.png" width="40%" alt="XKCD Dates">
+</center>
 
 ## Dates.
 
